@@ -64,6 +64,8 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>inventory-service</finalName>
+
 	</build>
 
 </project>
